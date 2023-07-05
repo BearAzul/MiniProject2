@@ -19,4 +19,4 @@
 - File dataset yang digunakan di python menggunakan file raw github
 
 ===========================================
-### Note: Dilarang keras copas punya saya oke:v, saya susah2 mengerjakan
+#### Note: Dilarang keras copas punya saya oke:v, saya susah2 mengerjakan
